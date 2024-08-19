@@ -1,0 +1,6 @@
+@CleanArchitectureExample.WebAPI_HostAddress = http://localhost:5186
+
+GET {{CleanArchitectureExample.WebAPI_HostAddress}}/Users/Create
+Accept: application/json
+
+###
